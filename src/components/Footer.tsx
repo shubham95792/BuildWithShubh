@@ -1,10 +1,10 @@
 ﻿import { Github, Instagram, Linkedin, Twitter } from 'lucide-react'
 
 const SOCIAL_LINKS = [
-  { label: 'X', href: 'https://x.com/shubham95792', Icon: Twitter },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/shubham-patil-66918b39b/', Icon: Linkedin },
-  { label: 'Instagram', href: 'https://www.instagram.com/shubham.bnb/', Icon: Instagram },
-  { label: 'GitHub', href: 'https://github.com/shubham95792', Icon: Github },
+  { label: 'X', href: 'https://x.com/NeuralShubh', Icon: Twitter },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/neuralshubh/', Icon: Linkedin },
+  { label: 'Instagram', href: 'https://www.instagram.com/neuralshubh/', Icon: Instagram },
+  { label: 'GitHub', href: 'https://github.com/NeuralShubh', Icon: Github },
 ]
 
 const FOOTER_LINKS = {
