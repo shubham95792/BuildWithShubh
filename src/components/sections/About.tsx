@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 
 const FOUNDER_IMAGE =
-  'https://cglzadzphyxgiqwwuwle.supabase.co/storage/v1/object/public/Profile_Photo/Image.png'
+  'https://res.cloudinary.com/dl1jueuj3/image/upload/v1772213832/Image_ky1fkg.png'
 
 export default function About() {
   const [imgError, setImgError] = useState(false)
